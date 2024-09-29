@@ -6,4 +6,4 @@ cd Vip
 
 ls
 
-pythom mrxttx-Enc.pyc
+python mrxttx-Enc.pyc
